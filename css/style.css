@@ -1,0 +1,16 @@
+h1{
+    color: brown;
+}
+
+#fondo{
+    color: chocolate;
+    background-color: darkgrey;
+}
+
+.bold{
+    font-weight: bold;
+} 
+
+.bold{
+    color-interpolation-filters: initial;
+}
